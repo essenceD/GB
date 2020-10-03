@@ -11,7 +11,7 @@ dbase, specification = [(1, {'Name': 'laptop', 'Price': 500.0, 'Quantity': 9, 'U
                        {'Name': '', 'Price': 0, 'Quantity': 0, 'Units': ''}
 count = 0
 num = len(dbase)
-#
+
 while True:
     print('\n\tCommand list:\n1. Use "create" to create new product\n'
           '2. Use "change" to change any product\n'
@@ -51,31 +51,35 @@ while True:
         while True:
             num_to_change = input('\nEnter an index of product you want to make changes with: ')
             if num_to_change.isdigit():
+                num_to_change = int(num_to_change)
                 break
             else:
                 print('This index should be an integer: ')
 
         for i in dbase:
-            if int(num_to_change) in i:
+            if num_to_change in i:
                 product_in_db = True
                 print('\nThis is a chosen product specification: \n\t\t{}'.format((i[1])).title())
 
         while True:
-            command = input('Enter an attribute you\'d like to change! (Name/Price/Quantity/Units)\n\t\tCOMMAND: ')\
-                            .title()
-            if command in specification.keys():
-                break
+            command = input('Enter an attribute you\'d like to change! (Name/Price/Quantity/Units)\n\t\tCOMMAND: ') \
+                .title()
+            if command in dbase[num_to_change - 1][1].keys():
+                print(dbase[num_to_change - 1][1].keys())
+            break
 
-        for i in dbase:
-            if command in i[1].keys():
-                if command.title() == 'Quantity':
-                    i[1][command] = int(input('Enter a new value for attribute "{}": '.format(command.title())))
-                elif command.title() == 'Price':
-                    i[1][command] = float(input('Enter a new value for attribute "{}": '.format(command.title())))
-                else:
-                    i[1][command] = input('Enter a new value for attribute "{}": '.format(command.title()))
-                print('\nUpdated info:\n\t\t{}'.format(i[1]))
-                break
+        if command in dbase[num_to_change - 1][1].keys():
+            if command.title() == 'Quantity':
+                dbase[num_to_change - 1][1][command] = int(input('Enter a new value for attribute "{}": '
+                                                                 .format(command.title())))
+            elif command.title() == 'Price':
+                dbase[num_to_change - 1][1][command] = float(input('Enter a new value for attribute "{}": '
+                                                                   .format(command.title())))
+            else:
+                dbase[num_to_change - 1][1][command] = input('Enter a new value for attribute "{}": '
+                                                             .format(command.title()))
+            print('\nUpdated info:\n\t\t{}'.format(dbase[num_to_change - 1][1]))
+            a = input('Press Enter!')
 
         if not product_in_db:
             print('Product with this index does not exist!')
@@ -122,6 +126,7 @@ while True:
                             count += 1
                             if i[1]['Price'] == name_to_find:
                                 print(*i)
+                        a = input('Press Enter!')
                         break
                     else:
                         print('Price should be positive float!')
@@ -136,6 +141,7 @@ while True:
                             count += 1
                             if i[1]['Quantity'] == name_to_find:
                                 print(*i)
+                        a = input('Press Enter!')
                         break
                     else:
                         print('Quantity should be positive integer!')
@@ -146,9 +152,7 @@ while True:
                     count += 1
                     if name_to_find in i[1].values():
                         print(*i)
-                    '''if count == len(dbase) - 1:
-                        break'''
-                a = input('Press any key')
+                a = input('Press Enter!')
                 break
             else:
                 print('Wrong attribute!')
