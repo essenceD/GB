@@ -11,7 +11,7 @@ dbase, specification = [(1, {'Name': 'laptop', 'Price': 500.0, 'Quantity': 9, 'U
                        {'Name': '', 'Price': 0, 'Quantity': 0, 'Units': ''}
 count = 0
 num = len(dbase)
-
+#
 while True:
     print('\n\tCommand list:\n1. Use "create" to create new product\n'
           '2. Use "change" to change any product\n'
