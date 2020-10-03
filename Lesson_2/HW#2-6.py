@@ -123,7 +123,6 @@ while True:
                     if name_to_find.isdigit():
                         name_to_find = float(int(name_to_find))
                         for i in dbase:
-                            count += 1
                             if i[1]['Price'] == name_to_find:
                                 print(*i)
                         a = input('Press Enter!')
@@ -138,7 +137,6 @@ while True:
                     if name_to_find.isdigit():
                         name_to_find = int(name_to_find)
                         for i in dbase:
-                            count += 1
                             if i[1]['Quantity'] == name_to_find:
                                 print(*i)
                         a = input('Press Enter!')
@@ -149,7 +147,6 @@ while True:
             elif command.title() == 'Name' or command.title() == 'Units':
                 name_to_find = input('Enter a value for attribute "{}": '.format(command.title()))
                 for i in dbase:
-                    count += 1
                     if name_to_find in i[1].values():
                         print(*i)
                 a = input('Press Enter!')
