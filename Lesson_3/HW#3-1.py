@@ -17,3 +17,5 @@ while True:
     except ValueError:
         print('Dividend and divider supposed to be numeric!')
 print(foo(a, b))
+
+

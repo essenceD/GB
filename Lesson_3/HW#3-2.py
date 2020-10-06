@@ -56,3 +56,5 @@ while True:
         break
 
 print(set_personal_info(fi_name, la_name, ye_birth, _city, e_mail, phone_n))'''
+
+

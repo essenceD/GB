@@ -39,3 +39,5 @@ while True:
         print('**********GOOD BYE!**********')
         break
     print('Partial Sum is:{}\tFull Sum is:{}\n'.format(sub_sum, full_sum))
+
+
