@@ -139,7 +139,7 @@ while True:
                         for i in dbase:
                             if i[1]['Quantity'] == name_to_find:
                                 print(*i)
-                        a = input('Press Enter!')
+                                a = input('Press Enter!')
                         break
                     else:
                         print('Quantity should be positive integer!')
