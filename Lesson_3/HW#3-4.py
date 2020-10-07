@@ -10,7 +10,7 @@ def my_func(base, exponent):
     else:
         for i in range(abs(exponent)):
             res *= base
-        return '1/{}'.format(res)
+        return round(1 / res, 6)
 
 
 ''' To initiate data. Use "pos" to get POSITIVE number oe "neg" to get NEGATIVE '''
