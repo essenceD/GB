@@ -1,4 +1,6 @@
 import functools as ft
+
+
 def multiplicate(cur, nex):
     return cur * nex
 

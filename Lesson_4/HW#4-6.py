@@ -8,6 +8,7 @@ def get_int(_start, _fin):
         if i == _fin:
             return res
 
+
 def set_clone(origin):
     '''clone = [i for i in origin]
     return clone'''
@@ -30,6 +31,3 @@ while True:
 a = get_int(int(start), int(fin))
 print('All integer from {} to {} is: {}'.format(start, fin, a))
 print('Cloned list is: ', set_clone(a))
-
-
-
