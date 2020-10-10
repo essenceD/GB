@@ -1,6 +1,4 @@
-''' To set correct size of first letter in each word of phrase '''
-
-
+# To set correct size of first letter in each word of phrase
 def set_words(sample):
     new_words = [t for t in sample.split()]
     for j in range(len(new_words)):
@@ -11,9 +9,7 @@ def set_words(sample):
     return new_words
 
 
-''' To check the entered text for compliance with the task '''
-
-
+# To check the entered text for compliance with the task
 def check_phrase(sample):
     if len(sample) == 0:
         return True
@@ -41,6 +37,3 @@ while True:
     else:
         print('Correct Phrase is: ', *set_words(words))
         repeat = True
-
-
-
