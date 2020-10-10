@@ -44,22 +44,24 @@ from random import randrange
 print(randrange(7, 20, 3))
 
 # yield
+print('YELD***************')
 def gen():
     for i in [1, 2, 3]:
         yield i
-print(gen())
+for i in gen():
+    print(i)
 
 # functools
 import functools as ft
 def foo(prev, el):
     return prev + el
 
-
+print('*****REDUCE!')
 print(ft.reduce(foo, [1, 2, 3, 4, 5]))
 print(list(map(int, ['1', '2', '3', '4', '5'])))
 
 import itertools as itt
-for i in itt.count(7, 10):
+for i in itt.count(7, 1):
     print(i, end=' ')
     if i > 15:
         break
