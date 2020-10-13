@@ -1,4 +1,4 @@
-'''file = open('test01.txt', 'r', encoding='utf-8')
+file = open('test01.txt', 'r', encoding='utf-8')
 print('1')
 content = file.read()
 print(content)
@@ -43,9 +43,9 @@ with open('test02.txt', 'x+', encoding='utf-8') as file:
 with open('test02.txt', 'w+', encoding='utf-8') as file:
     file.seek(0)
     print(file.read())
-'''
 
-'''with open('test04.txt', 'r', encoding='utf-8') as file:
+
+with open('test04.txt', 'r', encoding='utf-8') as file:
     file.seek(2)
     print(file.read())
 
@@ -54,7 +54,7 @@ with open('test04.txt', 'r', encoding='utf-8') as file:
     print(file.tell())
 
 with open('test04.txt', 'a', encoding='utf-8') as file:
-    print('allright...', file=file)'''
+    print('allright...', file=file)
 
 import os
 #os.remove('test05.txt')

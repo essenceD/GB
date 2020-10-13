@@ -1,6 +1,3 @@
-''' To get nums from each word '''
-
-
 def get_num(sample):
     det = [j for j in sample]
     c, d, sign = '', [], 0
@@ -24,7 +21,7 @@ def get_num(sample):
     return sum(d)
 
 
-stop, full_sum, check = input('Enter stop-symbol: ').strip(), 0, 0
+'''stop, full_sum, check = input('Enter stop-symbol: ').strip(), 0, 0
 while True:
     a, sub_sum = input('Enter numbers separated with space bar: ').split(), 0
     for i in a:
@@ -39,5 +36,5 @@ while True:
         print('**********GOOD BYE!**********')
         break
     print('Partial Sum is:{}\tFull Sum is:{}\n'.format(sub_sum, full_sum))
-
+'''
 
