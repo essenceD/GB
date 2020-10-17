@@ -9,4 +9,4 @@ with open('samples\\inputs\\text_7.txt', 'r', encoding='utf-8') as file_r:
     res = [accounting, avg]
 print(res)
 with open('samples\\outputs\\account.json', 'w', encoding='utf-8') as file_w:
-    json.dump(res, file_w, ensure_ascii=False)
+    json.dump(res, file_w, ensure_ascii=False, indent=4)
