@@ -1,0 +1,3 @@
+Line_1 Printer 10.0 Scanner 20.0 Copier 30.0
+Line_2 Printer 15.0 Scanner 8.0 Copier 25.0
+Line_3 Printer 32.0 Scanner 22.0 Copier 19.0

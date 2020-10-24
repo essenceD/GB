@@ -22,7 +22,7 @@ class Cell(ABC):
         return Fused(win_name[win_size], new_cell)
 
     def __sub__(self, other):
-        print(f'Result of fission of {self.name}POWER=({self.size}) and {other.name}(POWER={other.size}) is:')
+        print(f'Result of fission of {self.name}(POWER={self.size}) and {other.name}(POWER={other.size}) is:')
         try:
             if self.size > other.size:
                 return f"{Amoeba(self.name, self.size - other.size)}\r\t~AND~\n{Amoeba(f'{self.name}.Jr', other.size)}"
