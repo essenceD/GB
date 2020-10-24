@@ -1,0 +1,3 @@
+Printer 15.0
+Scanner 8.0
+Copier 25.0

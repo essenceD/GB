@@ -1,0 +1,3 @@
+Printer 32.0
+Scanner 22.0
+Copier 19.0
