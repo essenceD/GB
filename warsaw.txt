@@ -1,0 +1,5 @@
+bar brand model p_price r_price quantity
+2906189 sony ps4pro-black-500gb 250.0 USD 399.0 USD 60.0 pcs 
+7426151 microsoft x-box_one 239.0 USD 299.0 USD 7.0 pcs 
+2396240 samsung 65qe8900 2400.0 USD 2900.0 USD 12.0 pcs 
+8291749 microsoft surface-3 290000.0 RUR 340000.0 RUR 150.0 pcs 

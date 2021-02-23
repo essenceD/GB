@@ -1,0 +1,7 @@
+bar 7049574
+type printer
+brand hp
+model lj-1250er
+p_price 360.0 USD
+r_price 460.0 USD
+specs ['None']

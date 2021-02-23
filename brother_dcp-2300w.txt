@@ -1,0 +1,7 @@
+bar 4574282
+type printer
+brand brother
+model dcp-2300w
+p_price 120.0 USD
+r_price 270.0 USD
+specs ['None']

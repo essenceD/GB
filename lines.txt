@@ -1,0 +1,5 @@
+storage
+moscow
+warsaw
+minsk
+ulan-ude

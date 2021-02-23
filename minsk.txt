@@ -1,0 +1,6 @@
+bar brand model p_price r_price quantity
+2396240 samsung 65qe8900 2400.0 USD 2900.0 USD 5.0 pcs
+1840130 whirpool whp-700 640.0 USD 749.0 USD 4.0 pcs 
+1153826 whilrpool whp-790 450.0 USD 570.0 USD 4.0 pcs 
+8291749 microsoft surface-3 290000.0 RUR 340000.0 RUR 71.0 pcs 
+2657017 xerox t-800 200.0 USD 300.0 USD 1.0 pcs 

@@ -1,0 +1,12 @@
+0000000 type file
+8291749 laptop base\microsoft_surface-3.txt
+2657017 printer base\Xerox_t-800.txt
+2906189 game_console base\sony_ps4pro-black-500gb.txt
+7426151 game_console base\microsoft_x-box_one.txt
+2396240 tv base\samsung_65qe8900.txt
+7534119 tv base\philips_kde-4000.txt
+1840130 washer base\whirpool_whp-700.txt
+1153826 dryer base\whilrpool_whp-790.txt
+4172363 dishwasher base\siemens_sm-2000.txt
+6587016 tv base\berezka_3m.txt
+7049574 printer base\hp_lj-1250er.txt

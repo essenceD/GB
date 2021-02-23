@@ -1,0 +1,7 @@
+bar 7426151
+type game_console
+brand microsoft
+model x-box_one
+p_price 239.0 USD
+r_price 299.0 USD
+specs ['None']

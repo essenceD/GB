@@ -1,0 +1,7 @@
+bar 8291749
+type laptop
+brand microsoft
+model surface-3
+p_price 2800.0 USD
+r_price 3200.0 USD
+specs ['None']

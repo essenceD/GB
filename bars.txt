@@ -1,0 +1,13 @@
+0000000 name
+8291749 microsoft_surface-3
+2657017 xerox_t-800
+2906189 sony_ps4pro-black-500gb
+4574282 brother_dcp-2300w
+7426151 microsoft_x-box_one
+2396240 samsung_65qe8900
+7534119 philips_kde-4000
+1840130 whirpool_whp-700
+1153826 whilrpool_whp-790
+4172363 siemens_sm-2000
+6587016 berezka_3m
+7049574 hp_lj-1250er

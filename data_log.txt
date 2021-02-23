@@ -1,0 +1,365 @@
+0 process
+1 --------Database launched.-------- TIME: 2020-11-19 00:45:23.826580
+2 VIEWED DataBase in case ~SHOW products Everywhere~. TIME: 2020-11-19 00:45:37.695306
+3 VIEWED DataBase in case ~moscow~. TIME: 2020-11-19 00:45:49.367280
+4 --------Database launched.-------- TIME: 2020-11-19 00:47:37.822173
+5 --------Database launched.-------- TIME: 2020-11-19 00:48:27.032713
+6 --------Database launched.-------- TIME: 2020-11-19 00:49:29.349120
+7 VIEWED DataBase in case ~moscow~. TIME: 2020-11-19 00:49:40.807302
+8 UPDATED file categories.txt. New value: ~laptop~ TIME: 2020-11-19 00:51:04.447895
+9 UPDATED file categories.txt. New value: ~laptop~ TIME: 2020-11-19 00:51:04.447895
+10 UPDATED file categories.txt. New value: ~printer~ TIME: 2020-11-19 00:51:30.575349
+11 File ~lines\warsaw.txt~ has been created successfully. TIME: 2020-11-19 00:51:59.615358
+12 UPDATED file lines.txt TIME: 2020-11-19 00:51:59.615358
+13 UPDATED file categories.txt. New value: ~ps4pro~ TIME: 2020-11-19 00:52:26.311060
+14 CREATED Bar code ~1~ has been created for laptop microsoft_surface-3. TIME: 2020-11-19 00:54:15.318924
+15 File ~base\microsoft_surface-3.txt~ has been created successfully. TIME: 2020-11-19 00:54:15.320943
+16 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2800.0 USD', 'r_price': '3400.0 USD', 'specs': ['None']}~ TIME: 2020-11-19 00:54:15.320943
+17 Product ~laptop~ ~microsoft_surface-3~ has been added to database. Index updated. TIME: 2020-11-19 00:54:15.321943
+18 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '2800.0 USD', '3400.0 USD', '15.0 pcs']~ added successfully. TIME: 2020-11-19 00:54:15.322937
+19 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~15.0 pcs~ successfully. TIME: 2020-11-19 00:54:15.322937
+20 --------Database launched.-------- TIME: 2020-11-19 01:07:40.342291
+21 CREATED Bar code ~2~ has been created for printer Xerox_t-800. TIME: 2020-11-19 01:08:37.287714
+22 File ~base\Xerox_t-800.txt~ has been created successfully. TIME: 2020-11-19 01:08:37.288709
+23 Product ~base\Xerox_t-800.txt~ has been updated: ~{'bar': '2', 'type': 'printer', 'brand': 'Xerox', 'model': 't-800', 'p_price': '200.0 USD', 'r_price': '300.0 USD', 'specs': ['None']}~ TIME: 2020-11-19 01:08:37.288709
+24 Product ~printer~ ~Xerox_t-800~ has been added to database. Index updated. TIME: 2020-11-19 01:08:37.289705
+25 Line ~lines\moscow.txt~ updated. ~['2', 'Xerox', 't-800', '200.0 USD', '300.0 USD', '9.0 pcs']~ added successfully. TIME: 2020-11-19 01:08:37.290704
+26 ADD SUCCESSFUL  New product ~printer Xerox_t-800~ bar ~2~ added and placed to ~moscow~ in quantity of ~9.0 pcs~ successfully. TIME: 2020-11-19 01:08:37.290704
+27 --------Database launched.-------- TIME: 2020-11-19 01:09:56.436673
+28 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-19 01:11:16.958902
+29 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2800.0 USD', 'r_price': '2400.0 USD', 'specs': ['None']}~ TIME: 2020-11-19 01:11:16.959899
+30 Product ~laptop~ ~microsoft_surface-3~ has been added to database. Index updated. TIME: 2020-11-19 01:11:16.959899
+31 --------Database launched.-------- TIME: 2020-11-19 01:13:15.928986
+32 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-19 01:14:39.583643
+33 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2800.0 USD', 'r_price': '3400.0 USD', 'specs': ['None']}~ TIME: 2020-11-19 01:14:39.584667
+34 Product ~laptop~ ~microsoft_surface-3~ has been added to database. Index updated. TIME: 2020-11-19 01:14:39.584667
+35 --------Database launched.-------- TIME: 2020-11-19 01:28:29.052745
+36 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-19 01:29:36.247687
+37 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2800.0 USD', 'r_price': '3400.0 USD', 'specs': ['None']}~ TIME: 2020-11-19 01:29:36.248685
+38 Product ~laptop~ ~microsoft_surface-3~ has been added to database. Index updated. TIME: 2020-11-19 01:29:36.248685
+39 --------Database launched.-------- TIME: 2020-11-19 01:32:34.950027
+40 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-19 01:33:54.351637
+41 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2800.0 USD', 'r_price': '3400.0 USD', 'specs': ['None']}~ TIME: 2020-11-19 01:33:54.352608
+42 Product ~laptop~ ~microsoft_surface-3~ has been added to database. Index updated. TIME: 2020-11-19 01:33:54.353605
+43 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '2800.0 USD', '3400.0 USD', '50.0 pcs']~ added successfully. TIME: 2020-11-19 01:33:54.353605
+44 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~50.0 pcs~ successfully. TIME: 2020-11-19 01:33:54.354602
+45 --------Database launched.-------- TIME: 2020-11-19 01:40:23.052767
+46 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-19 01:41:11.783395
+47 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2400.0 USD', 'r_price': '15000.0 EUR', 'specs': ['None']}~ TIME: 2020-11-19 01:41:11.784393
+48 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '2400.0 USD', '15000.0 EUR', '700.0 pcs']~ added successfully. TIME: 2020-11-19 01:41:11.785414
+49 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~700.0 pcs~ successfully. TIME: 2020-11-19 01:41:11.785414
+50 --------Database launched.-------- TIME: 2020-11-20 14:12:45.684640
+51 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:13:34.529980
+52 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2400.0 USD', 'r_price': '2800.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:13:34.529980
+53 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '2400.0 USD', '2800.0 USD', '150.0 pcs']~ added successfully. TIME: 2020-11-20 14:13:34.529980
+54 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~150.0 pcs~ successfully. TIME: 2020-11-20 14:13:34.529980
+55 --------Database launched.-------- TIME: 2020-11-20 14:15:47.522636
+56 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:16:56.813614
+57 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2400.0 USD', 'r_price': '3600.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:16:56.813614
+58 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '2400.0 USD', '3600.0 USD', '150.0 pcs']~ added successfully. TIME: 2020-11-20 14:16:56.829224
+59 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~150.0 pcs~ successfully. TIME: 2020-11-20 14:16:56.829224
+60 --------Database launched.-------- TIME: 2020-11-20 14:20:30.035315
+61 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:21:22.313456
+62 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '10.0 RUR', 'r_price': '20.0 RUR', 'specs': ['None']}~ TIME: 2020-11-20 14:21:22.313456
+63 --------Database launched.-------- TIME: 2020-11-20 14:25:03.588117
+64 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:25:34.314036
+65 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '25.0 USD', 'r_price': '35.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:25:34.314036
+66 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '25.0 USD', '35.0 USD', '1000.0 pcs']~ added successfully. TIME: 2020-11-20 14:29:04.520952
+67 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~1000.0 pcs~ successfully. TIME: 2020-11-20 14:29:04.833378
+68 --------Database launched.-------- TIME: 2020-11-20 14:36:34.982793
+69 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:37:18.302576
+70 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '200.0 USD', 'r_price': '300.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:37:18.302576
+71 --------Database launched.-------- TIME: 2020-11-20 14:38:16.307647
+72 --------Database launched.-------- TIME: 2020-11-20 14:38:21.839851
+73 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:38:57.871120
+74 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '200.0 USD', 'r_price': '300.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:38:57.871120
+75 --------Database launched.-------- TIME: 2020-11-20 14:42:08.757592
+76 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:42:37.265329
+77 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '200.0 USD', 'r_price': '300.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:42:37.265329
+78 --------Database launched.-------- TIME: 2020-11-20 14:43:45.714728
+79 --------Database launched.-------- TIME: 2020-11-20 14:43:49.283523
+80 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:44:12.072538
+81 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '200.0 USD', 'r_price': '300.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:44:12.072538
+82 --------Database launched.-------- TIME: 2020-11-20 14:54:11.277499
+83 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:54:40.072841
+84 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '150.0 USD', 'r_price': '140.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:54:40.072841
+85 --------Database launched.-------- TIME: 2020-11-20 14:56:34.362979
+86 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:56:58.716203
+87 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '100.0 USD', 'r_price': '200.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 14:56:58.716203
+88 --------Database launched.-------- TIME: 2020-11-20 14:57:14.932807
+89 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 14:57:39.303526
+90 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '200.0 RUR', 'r_price': '300.0 RUR', 'specs': ['None']}~ TIME: 2020-11-20 14:57:39.303526
+91 --------Database launched.-------- TIME: 2020-11-20 14:58:51.270626
+92 --------Database launched.-------- TIME: 2020-11-20 14:59:59.635037
+93 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:00:23.141153
+94 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '100.0 RUR', 'r_price': '200.0 RUR', 'specs': ['None']}~ TIME: 2020-11-20 15:00:23.141153
+95 --------Database launched.-------- TIME: 2020-11-20 15:02:10.981772
+96 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:02:38.914011
+97 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '200.0 RUR', 'r_price': '100.0 RUR', 'specs': ['None']}~ TIME: 2020-11-20 15:02:38.914011
+98 --------Database launched.-------- TIME: 2020-11-20 15:04:06.855785
+99 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:04:27.945768
+100 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '200.0 RUR', 'r_price': '300.0 RUR', 'specs': ['None']}~ TIME: 2020-11-20 15:04:27.945768
+101 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '200.0 RUR', '300.0 RUR', '1000.0 pcs']~ added successfully. TIME: 2020-11-20 15:04:27.961354
+102 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~1000.0 pcs~ successfully. TIME: 2020-11-20 15:04:27.961354
+103 --------Database launched.-------- TIME: 2020-11-20 15:07:53.487132
+104 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:08:18.601676
+105 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '150.0 USD', 'r_price': '500.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 15:08:18.601676
+106 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '150.0 USD', '500.0 USD', '1000.0 pcs']~ added successfully. TIME: 2020-11-20 15:08:18.617261
+107 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~1000.0 pcs~ successfully. TIME: 2020-11-20 15:08:18.617261
+108 --------Database launched.-------- TIME: 2020-11-20 15:22:15.230880
+109 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:22:47.167869
+110 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2800.0 EUR', 'r_price': '3200.0 EUR', 'specs': ['None']}~ TIME: 2020-11-20 15:22:47.167869
+111 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '2800.0 EUR', '3200.0 EUR', '10000.0 pcs']~ added successfully. TIME: 2020-11-20 15:22:47.167869
+112 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~10000.0 pcs~ successfully. TIME: 2020-11-20 15:22:47.167869
+113 --------Database launched.-------- TIME: 2020-11-20 15:26:46.918335
+114 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:27:21.546631
+115 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2500.0 EUR', 'r_price': '3500.0 EUR', 'specs': ['None']}~ TIME: 2020-11-20 15:27:21.546631
+116 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '2500.0', 'EUR', '3500.0', 'EUR', '50000.0', 'pcs']~ added successfully. TIME: 2020-11-20 15:27:21.546631
+117 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~50000.0 pcs~ successfully. TIME: 2020-11-20 15:27:21.546631
+118 --------Database launched.-------- TIME: 2020-11-20 15:28:10.770877
+119 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:28:43.294155
+120 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '999.0 RUR', 'r_price': '9999.0 RUR', 'specs': ['None']}~ TIME: 2020-11-20 15:28:43.294155
+121 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '999.0', 'RUR', '9999.0', 'RUR', '1000.0', 'pcs']~ added successfully. TIME: 2020-11-20 15:28:43.294155
+122 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~1000.0 pcs~ successfully. TIME: 2020-11-20 15:28:43.294155
+123 --------Database launched.-------- TIME: 2020-11-20 15:29:43.523018
+124 Unable to create file ~base\microsoft_surface-3.txt~. File already exists. TIME: 2020-11-20 15:30:25.822839
+125 Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '1', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '290000.0 RUR', 'r_price': '340000.0 RUR', 'specs': ['None']}~ TIME: 2020-11-20 15:30:25.822839
+126 Line ~lines\moscow.txt~ updated. ~['1', 'microsoft', 'surface-3', '290000.0', 'RUR', '340000.0', 'RUR', '550.0', 'pcs']~ added successfully. TIME: 2020-11-20 15:30:25.822839
+127 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~1~ added and placed to ~moscow~ in quantity of ~550.0 pcs~ successfully. TIME: 2020-11-20 15:30:25.822839
+128 --------Database launched.-------- TIME: 2020-11-20 15:32:30.760097
+129 --------Database launched.-------- TIME: 2020-11-20 15:33:29.342123
+130 --------Database launched.-------- TIME: 2020-11-20 15:34:02.393082
+131 CREATED Bar code ~3~ has been created for game_console sony_ps4pro-black-500gb. TIME: 2020-11-20 15:34:50.551537
+132 File ~base\sony_ps4pro-black-500gb.txt~ has been created successfully. TIME: 2020-11-20 15:34:50.551537
+133 Product ~base\sony_ps4pro-black-500gb.txt~ has been updated: ~{'bar': '3', 'type': 'game_console', 'brand': 'sony', 'model': 'ps4pro-black-500gb', 'p_price': '370.0 USD', 'r_price': '399.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 15:34:50.551537
+134 --------Database launched.-------- TIME: 2020-11-20 15:35:39.577078
+135 Unable to create file ~base\sony_ps4pro-black-500gb.txt~. File already exists. TIME: 2020-11-20 15:36:13.834215
+136 Product ~base\sony_ps4pro-black-500gb.txt~ has been updated: ~{'bar': '3', 'type': 'game_console', 'brand': 'sony', 'model': 'ps4pro-black-500gb', 'p_price': '340.0 USD', 'r_price': '399.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 15:36:13.834215
+137 Line ~lines\warsaw.txt~ updated. ~['3', 'sony', 'ps4pro-black-500gb', '340.0', 'USD', '399.0', 'USD', '15.0', 'pcs']~ added successfully. TIME: 2020-11-20 15:36:13.834215
+138 ADD SUCCESSFUL  New product ~game_console sony_ps4pro-black-500gb~ bar ~3~ added and placed to ~warsaw~ in quantity of ~15.0 pcs~ successfully. TIME: 2020-11-20 15:36:13.834215
+139 --------Database launched.-------- TIME: 2020-11-20 15:41:52.462525
+140 Unable to create file ~base\sony_ps4pro-black-500gb.txt~. File already exists. TIME: 2020-11-20 15:42:18.209015
+141 Product ~base\sony_ps4pro-black-500gb.txt~ has been updated: ~{'bar': '3', 'type': 'game_console', 'brand': 'sony', 'model': 'ps4pro-black-500gb', 'p_price': '240.0 USD', 'r_price': '399.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 15:42:18.209015
+142 Line ~lines\warsaw.txt~ updated. ~['3', 'sony', 'ps4pro-black-500gb', '240.0', 'USD', '399.0', 'USD', '15.0', 'pcs']~ added successfully. TIME: 2020-11-20 15:42:18.209015
+143 ADD SUCCESSFUL  New product ~game_console sony_ps4pro-black-500gb~ bar ~3~ added and placed to ~warsaw~ in quantity of ~15.0 pcs~ successfully. TIME: 2020-11-20 15:42:18.209015
+144 --------Database launched.-------- TIME: 2020-11-20 15:43:12.729949
+145 --------Database launched.-------- TIME: 2020-11-20 15:43:30.621491
+146 Unable to create file ~base\sony_ps4pro-black-500gb.txt~. File already exists. TIME: 2020-11-20 15:43:52.434203
+147 Product ~base\sony_ps4pro-black-500gb.txt~ has been updated: ~{'bar': '3', 'type': 'game_console', 'brand': 'sony', 'model': 'ps4pro-black-500gb', 'p_price': '250.0 USD', 'r_price': '399.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 15:43:52.434203
+148 Line ~lines\warsaw.txt~ updated. ~['3', 'sony', 'ps4pro-black-500gb', '250.0', 'USD', '399.0', 'USD', '45.0', 'pcs']~ added successfully. TIME: 2020-11-20 15:43:52.434203
+149 ADD SUCCESSFUL  New product ~game_console sony_ps4pro-black-500gb~ bar ~3~ added and placed to ~warsaw~ in quantity of ~45.0 pcs~ successfully. TIME: 2020-11-20 15:43:52.434203
+150 --------Database launched.-------- TIME: 2020-11-20 16:24:18.105727
+151 CREATED Bar code ~4574282~ has been created for printer brother_dcp-2300w. TIME: 2020-11-20 16:25:08.703701
+152 File ~base\brother_dcp-2300w.txt~ has been created successfully. TIME: 2020-11-20 16:25:08.703701
+153 Product ~base\brother_dcp-2300w.txt~ has been updated: ~{'bar': '4574282', 'type': 'printer', 'brand': 'brother', 'model': 'dcp-2300w', 'p_price': '120.0 USD', 'r_price': '270.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 16:25:08.703701
+154 Line ~lines\moscow.txt~ updated. ~['4574282', 'brother', 'dcp-2300w', '120.0', 'USD', '270.0', 'USD', '14.0', 'pcs']~ added successfully. TIME: 2020-11-20 16:25:08.703701
+155 ADD SUCCESSFUL  New product ~printer brother_dcp-2300w~ bar ~4574282~ added and placed to ~moscow~ in quantity of ~14.0 pcs~ successfully. TIME: 2020-11-20 16:25:08.703701
+156 --------Database launched.-------- TIME: 2020-11-20 16:51:17.039414
+157 VIEWED DataBase in case ~SHOW products Everywhere~. TIME: 2020-11-20 16:51:21.062936
+158 --------Database launched.-------- TIME: 2020-11-20 16:52:04.133333
+159 VIEWED DataBase in case ~SHOW products Everywhere~. TIME: 2020-11-20 16:52:06.384276
+160 --------Database launched.-------- TIME: 2020-11-20 16:53:17.502603
+161 VIEWED DataBase in case ~SHOW products Everywhere~. TIME: 2020-11-20 16:53:20.219017
+162 --------Database launched.-------- TIME: 2020-11-20 16:53:59.450636
+163 VIEWED DataBase in case ~SHOW products Everywhere~. TIME: 2020-11-20 16:54:02.766829
+164 --------Database launched.-------- TIME: 2020-11-20 16:56:37.512067
+165 --------Database launched.-------- TIME: 2020-11-20 16:57:11.243919
+166 --------Database launched.-------- TIME: 2020-11-20 22:43:25.830926
+167 CREATED Bar code ~7426151~ has been created for game_console microsoft_x-box_one. TIME: 2020-11-20 22:44:55.894220
+168 File ~base\microsoft_x-box_one.txt~ has been created successfully. TIME: 2020-11-20 22:44:55.895216
+169 Product ~base\microsoft_x-box_one.txt~ has been updated: ~{'bar': '7426151', 'type': 'game_console', 'brand': 'microsoft', 'model': 'x-box_one', 'p_price': '239.0 USD', 'r_price': '299.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 22:44:55.896214
+170 Line ~lines\warsaw.txt~ updated. ~['7426151', 'microsoft', 'x-box_one', '239.0', 'USD', '299.0', 'USD', '7.0', 'pcs']~ added successfully. TIME: 2020-11-20 22:44:55.897211
+171 ADD SUCCESSFUL  New product ~game_console microsoft_x-box_one~ bar ~7426151~ added and placed to ~warsaw~ in quantity of ~7.0 pcs~ successfully. TIME: 2020-11-20 22:44:55.897211
+172 --------Database launched.-------- TIME: 2020-11-20 22:58:01.181600
+173 UPDATED file categories.txt. New value: ~tv~ TIME: 2020-11-20 22:59:25.213093
+174 New categories ~tv~ successfully created TIME: 2020-11-20 22:59:25.213093
+175 CREATED Bar code ~2396240~ has been created for tv samsung_65qe8900. TIME: 2020-11-20 23:00:21.461222
+176 File ~base\samsung_65qe8900.txt~ has been created successfully. TIME: 2020-11-20 23:00:21.461222
+177 Product ~base\samsung_65qe8900.txt~ has been updated: ~{'bar': '2396240', 'type': 'tv', 'brand': 'samsung', 'model': '65qe8900', 'p_price': '2400.0 USD', 'r_price': '2900.0 USD', 'specs': ['None']}~ TIME: 2020-11-20 23:00:21.462226
+178 UPDATED INDEX. Product ~tv~ ~samsung_65qe8900~. TIME: 2020-11-20 23:00:21.463225
+179 Line ~lines\warsaw.txt~ updated. ~['2396240', 'samsung', '65qe8900', '2400.0', 'USD', '2900.0', 'USD', '12.0', 'pcs']~ added successfully. TIME: 2020-11-20 23:00:21.463225
+180 ADD SUCCESSFUL  New product ~tv samsung_65qe8900~ bar ~2396240~ added and placed to ~warsaw~ in quantity of ~12.0 pcs~ successfully. TIME: 2020-11-20 23:00:21.464221
+181 --------Database launched.-------- TIME: 2020-11-20 23:03:12.010877
+182 VIEWED DataBase in case ~SHOW products Everywhere~. TIME: 2020-11-20 23:03:19.364886
+183 ----2020-11-20 23:25:29.990532----Database launched.-------- TIME: 2020-11-20 23:25:29.990531
+184 ----20/11/2020----Database launched.-------- TIME: 2020-11-20 23:27:57.012993
+185 ----20.11.2020----Database launched.-------- TIME: 2020-11-20 23:28:27.877782
+186 ----20.11.2020----Database launched.-------- TIME:20.11.2020____23:32:59 2020-11-20 23:32:59.546422
+187 ----20.11.2020----Database launched.-------- TIME:20.11.2020__TIME_23:33:39
+188 ----20.11.2020----Database launched.-------- DATE:20.11.2020  TIME: 23:35:46
+189 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:07:25
+190 CREATED File ~lines\minsk.txt~ successfully. DATE:21.11.2020  TIME: 00:08:08
+191 UPDATED file lines.txt DATE:21.11.2020  TIME: 00:08:08
+192 VIEWED DataBase in case ~SHOW available storages~. DATE:21.11.2020  TIME: 00:08:15
+193 CREATED Bar code ~7534119~ has been created for tv philips_kde-4000. DATE:21.11.2020  TIME: 00:09:49
+194 CREATED File ~base\philips_kde-4000.txt~ successfully. DATE:21.11.2020  TIME: 00:09:49
+195 UPDATED. Product ~base\philips_kde-4000.txt~ has been updated: ~{'bar': '7534119', 'type': 'tv', 'brand': 'philips', 'model': 'kde-4000', 'p_price': '1700.0 USD', 'r_price': '2100.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:09:49
+196 UPDATED INDEX. Product ~tv~ ~philips_kde-4000~. DATE:21.11.2020  TIME: 00:09:49
+197 UPDATED. Line ~lines\moscow.txt~ updated. ~['7534119', 'philips', 'kde-4000', '1700.0', 'USD', '2100.0', 'USD', '9.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:09:49
+198 ADD SUCCESSFUL  New product ~tv philips_kde-4000~ bar ~7534119~ added and placed to ~moscow~ in quantity of ~9.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:09:49
+199 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:21.11.2020  TIME: 00:09:54
+200 CREATE FAIL. Unable to create file ~base\samsung_65qe8900.txt~. File already exists. DATE:21.11.2020  TIME: 00:11:53
+201 UPDATED. Product ~base\samsung_65qe8900.txt~ has been updated: ~{'bar': '2396240', 'type': 'tv', 'brand': 'samsung', 'model': '65qe8900', 'p_price': '2400.0 USD', 'r_price': '2900.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:11:53
+202 UPDATED. Line ~lines\moscow.txt~ updated. ~['2396240', 'samsung', '65qe8900', '2400.0', 'USD', '2900.0', 'USD', '5.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:11:53
+203 ADD SUCCESSFUL  New product ~tv samsung_65qe8900~ bar ~2396240~ added and placed to ~moscow~ in quantity of ~5.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:11:53
+204 CREATE FAIL. Unable to create file ~base\samsung_65qe8900.txt~. File already exists. DATE:21.11.2020  TIME: 00:12:36
+205 UPDATED. Product ~base\samsung_65qe8900.txt~ has been updated: ~{'bar': '2396240', 'type': 'tv', 'brand': 'samsung', 'model': '65qe8900', 'p_price': '2400.0 USD', 'r_price': '2900.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:12:36
+206 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:14:59
+207 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:16:29
+208 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:17:31
+209 CREATED File ~lines\ulan-ude.txt~ successfully. DATE:21.11.2020  TIME: 00:17:43
+210 UPDATED file lines.txt DATE:21.11.2020  TIME: 00:17:43
+211 VIEWED DataBase in case ~SHOW available storages~. DATE:21.11.2020  TIME: 00:18:00
+212 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:19:57
+213 CREATED File ~lines\ulan-ude.txt~ successfully. DATE:21.11.2020  TIME: 00:20:06
+214 UPDATED file lines.txt DATE:21.11.2020  TIME: 00:20:06
+215 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:25:52
+216 CREATE FAIL. Unable to create file ~lines\minsk.txt~. File already exists. DATE:21.11.2020  TIME: 00:26:06
+217 CREATED. New storage ~minsk~ successfully created DATE:21.11.2020  TIME: 00:26:06
+218 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:26:52
+219 CREATE FAIL. Unable to create file ~lines\minsk.txt~. File already exists. DATE:21.11.2020  TIME: 00:27:00
+220 CREATED. New storage ~minsk~ successfully created DATE:21.11.2020  TIME: 00:27:00
+221 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:28:48
+222 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:33:33
+223 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:21.11.2020  TIME: 00:33:36
+224 UPDATED file categories.txt. New value: ~washer~ DATE:21.11.2020  TIME: 00:34:35
+225 CREATED Bar code ~1840130~ has been created for washer whirpool_whp-700. DATE:21.11.2020  TIME: 00:35:18
+226 CREATED File ~base\whirpool_whp-700.txt~ successfully. DATE:21.11.2020  TIME: 00:35:18
+227 UPDATED. Product ~base\whirpool_whp-700.txt~ has been updated: ~{'bar': '1840130', 'type': 'washer', 'brand': 'whirpool', 'model': 'whp-700', 'p_price': '640.0 USD', 'r_price': '749.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:35:18
+228 UPDATED INDEX. Product ~washer~ ~whirpool_whp-700~. DATE:21.11.2020  TIME: 00:35:18
+229 UPDATED. Line ~lines\minsk.txt~ updated. ~['1840130', 'whirpool', 'whp-700', '640.0', 'USD', '749.0', 'USD', '4.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:35:18
+230 ADD SUCCESSFUL  New product ~washer whirpool_whp-700~ bar ~1840130~ added and placed to ~minsk~ in quantity of ~4.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:35:18
+231 UPDATED file categories.txt. New value: ~dryer~ DATE:21.11.2020  TIME: 00:36:29
+232 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:37:37
+233 CREATED Bar code ~1153826~ has been created for dryer whilrpool_whp-790. DATE:21.11.2020  TIME: 00:38:28
+234 CREATED File ~base\whilrpool_whp-790.txt~ successfully. DATE:21.11.2020  TIME: 00:38:28
+235 UPDATED. Product ~base\whilrpool_whp-790.txt~ has been updated: ~{'bar': '1153826', 'type': 'dryer', 'brand': 'whilrpool', 'model': 'whp-790', 'p_price': '450.0 USD', 'r_price': '570.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:38:28
+236 UPDATED INDEX. Product ~dryer~ ~whilrpool_whp-790~. DATE:21.11.2020  TIME: 00:38:28
+237 UPDATED. Line ~lines\minsk.txt~ updated. ~['1153826', 'whilrpool', 'whp-790', '450.0', 'USD', '570.0', 'USD', '4.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:38:28
+238 ADD SUCCESSFUL  New product ~dryer whilrpool_whp-790~ bar ~1153826~ added and placed to ~minsk~ in quantity of ~4.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:38:28
+239 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:21.11.2020  TIME: 00:38:31
+240 CREATE FAIL. Unable to create file ~base\microsoft_surface-3.txt~. File already exists. DATE:21.11.2020  TIME: 00:40:09
+241 UPDATED. Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '82917494', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2600.0 USD', 'r_price': '3200.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:40:09
+242 UPDATED INDEX. Product ~laptop~ ~microsoft_surface-3~. DATE:21.11.2020  TIME: 00:40:09
+243 UPDATED. Line ~lines\minsk.txt~ updated. ~['82917494', 'microsoft', 'surface-3', '2600.0', 'USD', '3200.0', 'USD', '17.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:40:09
+244 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~82917494~ added and placed to ~minsk~ in quantity of ~17.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:40:09
+245 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:21.11.2020  TIME: 00:40:14
+246 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:41:50
+247 CREATE FAIL. Unable to create file ~base\microsoft_surface-3.txt~. File already exists. DATE:21.11.2020  TIME: 00:42:27
+248 UPDATED. Product ~base\microsoft_surface-3.txt~ has been updated: ~{'bar': '8291749', 'type': 'laptop', 'brand': 'microsoft', 'model': 'surface-3', 'p_price': '2800.0 USD', 'r_price': '3200.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:42:27
+249 UPDATED. Line ~lines\ulan-ude.txt~ updated. ~['8291749', 'microsoft', 'surface-3', '2800.0', 'USD', '3200.0', 'USD', '12.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:42:27
+250 ADD SUCCESSFUL  New product ~laptop microsoft_surface-3~ bar ~8291749~ added and placed to ~ulan-ude~ in quantity of ~12.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:42:27
+251 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:21.11.2020  TIME: 00:42:31
+252 UPDATED file categories.txt. New value: ~dishwasher~ DATE:21.11.2020  TIME: 00:44:57
+253 CREATED Bar code ~4172363~ has been created for dishwasher siemens_sm-2000. DATE:21.11.2020  TIME: 00:45:29
+254 CREATED File ~base\siemens_sm-2000.txt~ successfully. DATE:21.11.2020  TIME: 00:45:29
+255 UPDATED. Product ~base\siemens_sm-2000.txt~ has been updated: ~{'bar': '4172363', 'type': 'dishwasher', 'brand': 'siemens', 'model': 'sm-2000', 'p_price': '880.0 USD', 'r_price': '1050.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:45:29
+256 UPDATED INDEX. Product ~dishwasher~ ~siemens_sm-2000~. DATE:21.11.2020  TIME: 00:45:29
+257 UPDATED. Line ~lines\ulan-ude.txt~ updated. ~['4172363', 'siemens', 'sm-2000', '880.0', 'USD', '1050.0', 'USD', '7.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:45:29
+258 ADD SUCCESSFUL  New product ~dishwasher siemens_sm-2000~ bar ~4172363~ added and placed to ~ulan-ude~ in quantity of ~7.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:45:29
+259 CREATED Bar code ~6587016~ has been created for tv berezka_3m. DATE:21.11.2020  TIME: 00:46:26
+260 CREATED File ~base\berezka_3m.txt~ successfully. DATE:21.11.2020  TIME: 00:46:26
+261 UPDATED. Product ~base\berezka_3m.txt~ has been updated: ~{'bar': '6587016', 'type': 'tv', 'brand': 'berezka', 'model': '3m', 'p_price': '15000.0 USD', 'r_price': '45000.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:46:26
+262 UPDATED INDEX. Product ~tv~ ~berezka_3m~. DATE:21.11.2020  TIME: 00:46:26
+263 UPDATED. Line ~lines\ulan-ude.txt~ updated. ~['6587016', 'berezka', '3m', '15000.0', 'USD', '45000.0', 'USD', '1.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:46:26
+264 ADD SUCCESSFUL  New product ~tv berezka_3m~ bar ~6587016~ added and placed to ~ulan-ude~ in quantity of ~1.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:46:26
+265 CREATED Bar code ~7049574~ has been created for printer hp_lj-1250er. DATE:21.11.2020  TIME: 00:47:20
+266 CREATED File ~base\hp_lj-1250er.txt~ successfully. DATE:21.11.2020  TIME: 00:47:20
+267 UPDATED. Product ~base\hp_lj-1250er.txt~ has been updated: ~{'bar': '7049574', 'type': 'printer', 'brand': 'hp', 'model': 'lj-1250er', 'p_price': '360.0 USD', 'r_price': '460.0 USD', 'specs': ['None']}~ DATE:21.11.2020  TIME: 00:47:20
+268 UPDATED INDEX. Product ~printer~ ~hp_lj-1250er~. DATE:21.11.2020  TIME: 00:47:20
+269 UPDATED. Line ~lines\ulan-ude.txt~ updated. ~['7049574', 'hp', 'lj-1250er', '360.0', 'USD', '460.0', 'USD', '64.0', 'pcs']~ added successfully. DATE:21.11.2020  TIME: 00:47:20
+270 ADD SUCCESSFUL  New product ~printer hp_lj-1250er~ bar ~7049574~ added and placed to ~ulan-ude~ in quantity of ~64.0 pcs~ successfully. DATE:21.11.2020  TIME: 00:47:20
+271 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:21.11.2020  TIME: 00:47:22
+272 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:51:54
+273 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:54:43
+274 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:55:14
+275 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 00:58:17
+276 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:02:11
+277 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:11:04
+278 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:12:32
+279 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:13:19
+280 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:15:19
+281 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:16:48
+282 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:17:10
+283 ----21.11.2020----Database launched.-------- DATE:21.11.2020  TIME: 01:18:16
+284 ----22.11.2020----Database launched.-------- DATE:22.11.2020  TIME: 18:32:15
+285 ----22.11.2020----Database launched.-------- DATE:22.11.2020  TIME: 18:33:38
+286 ----22.11.2020----Database launched.-------- DATE:22.11.2020  TIME: 18:35:29
+287 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:22.11.2020  TIME: 18:35:32
+288 ----22.11.2020----Database launched.-------- DATE:22.11.2020  TIME: 19:33:23
+289 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:22.11.2020  TIME: 19:34:01
+290 VIEWED DataBase in case ~SHOW available categories~. DATE:22.11.2020  TIME: 19:35:56
+291 UPDATED file categories.txt. New value: ~ttytt~ DATE:22.11.2020  TIME: 19:36:35
+292 CREATED File ~lines\dfghj.txt~ successfully. DATE:22.11.2020  TIME: 19:37:39
+293 CREATED. New storage ~dfghj~ successfully created DATE:22.11.2020  TIME: 19:37:39
+294 CREATED Bar code ~7073693~ has been created for ttytt ytyt_poiuyt. DATE:22.11.2020  TIME: 19:37:39
+295 CREATED File ~base\ytyt_poiuyt.txt~ successfully. DATE:22.11.2020  TIME: 19:37:39
+296 UPDATED. Product ~base\ytyt_poiuyt.txt~ has been updated: ~{'bar': '7073693', 'type': 'ttytt', 'brand': 'ytyt', 'model': 'poiuyt', 'p_price': '678.0 EUR', 'r_price': '4e-05 RUR', 'specs': ['None']}~ DATE:22.11.2020  TIME: 19:37:39
+297 UPDATED INDEX. Product ~ttytt~ ~ytyt_poiuyt~. DATE:22.11.2020  TIME: 19:37:39
+298 UPDATED. Line ~lines\dfghj.txt~ updated. ~['7073693', 'ytyt', 'poiuyt', '678.0', 'EUR', '4e-05', 'RUR', '777.0', 'kilos']~ added successfully. DATE:22.11.2020  TIME: 19:37:39
+299 ADD SUCCESSFUL  New product ~ttytt ytyt_poiuyt~ bar ~7073693~ added and placed to ~dfghj~ in quantity of ~777.0 kilos~ successfully. DATE:22.11.2020  TIME: 19:37:39
+300 ----22.11.2020----Database launched.-------- DATE:22.11.2020  TIME: 23:22:33
+301 VIEWED DataBase in case ~SHOW available categories~. DATE:22.11.2020  TIME: 23:22:42
+302 VIEWED DataBase in case ~SHOW available storages~. DATE:22.11.2020  TIME: 23:22:55
+303 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 16:08:58
+304 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 16:10:09
+305 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:05:31
+306 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:07:08
+307 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:07:43
+308 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:18:47
+309 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:20:13
+310 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:21:07
+311 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:24:18
+312 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:25:17
+313 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:28:12
+314 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:29:05
+315 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:31:05
+316 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:31:55
+317 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:33:19
+318 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:37:55
+319 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:40:36
+320 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:41:32
+321 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:41:55
+322 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:42:11
+323 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:44:50
+324 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:46:17
+325 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 17:46:56
+326 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:19:24
+327 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:23:05
+328 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:23:48
+329 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:25:21
+330 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:25:38
+331 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:26:35
+332 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:27:01
+333 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:27:39
+334 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:29:57
+335 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:31:30
+336 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:31:46
+337 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:39:07
+338 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:40:11
+339 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 18:41:12
+340 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:19:44
+341 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:21:10
+342 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:27:23
+343 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:40:42
+344 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:41:18
+345 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:45:40
+346 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:51:47
+347 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:53:27
+348 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:55:26
+349 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 20:56:37
+350 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 21:01:17
+351 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 21:03:05
+352 MOVED ~8291749~ from ~moscow~ to ~ulan-ude~ in quantity ~500.0~ DATE:23.11.2020  TIME: 21:03:20
+353 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 21:04:14
+354 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 21:07:54
+355 MOVED ~8291749~ from ~ulan-ude~ to ~warsaw~ in quantity ~150.0~ DATE:23.11.2020  TIME: 21:09:26
+356 MOVED ~8291749~ from ~minsk~ to ~moscow~ in quantity ~3.0~ DATE:23.11.2020  TIME: 21:10:19
+357 MOVED ~2657017~ from ~moscow~ to ~minsk~ in quantity ~1.0~ DATE:23.11.2020  TIME: 21:10:55
+358 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:23.11.2020  TIME: 21:11:00
+359 MOVED ~8291749~ from ~ulan-ude~ to ~minsk~ in quantity ~57.0~ DATE:23.11.2020  TIME: 21:11:44
+360 MOVED ~6587016~ from ~ulan-ude~ to ~moscow~ in quantity ~1.0~ DATE:23.11.2020  TIME: 21:12:51
+361 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:23.11.2020  TIME: 21:12:54
+362 ----23.11.2020----Database launched.-------- DATE:23.11.2020  TIME: 21:45:37
+363 ----26.11.2020----Database launched.-------- DATE:26.11.2020  TIME: 20:10:56
+364 VIEWED DataBase in case ~SHOW products Everywhere~. DATE:26.11.2020  TIME: 20:11:47

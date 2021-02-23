@@ -1,0 +1,7 @@
+bar brand model p_price r_price quantity
+8291749 microsoft surface-3 2600.0 USD 3200.0 USD 58.0 pcs 
+2657017 xerox t-800 200.0 USD 300.0 USD 8.0 pcs 
+4574282 brother dcp-2300w 120.0 USD 270.0 USD 14.0 pcs 
+7534119 philips kde-4000 1700.0 USD 2100.0 USD 9.0 pcs 
+2396240 samsung 65qe8900 2400.0 USD 2900.0 USD 5.0 pcs 
+6587016 berezka 3m 15000.0 USD 45000.0 USD 1.0 pcs 

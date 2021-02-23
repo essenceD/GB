@@ -1,0 +1,6 @@
+index = r'data\index.txt'
+sample = r'base\sample.txt'
+log = r'data\data_log.txt'
+cat = r'data\categories.txt'
+lines = r'lines\lines.txt'
+bar = r'data\bars.txt'

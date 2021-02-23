@@ -1,0 +1,8 @@
+category
+laptop
+printer
+game_console
+tv
+washer
+dryer
+dishwasher

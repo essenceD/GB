@@ -1,0 +1,5 @@
+bar brand model p_price r_price quantity
+8291749 microsoft surface-3 290000.0 RUR 340000.0 RUR 305.0 pcs 
+4172363 siemens sm-2000 880.0 USD 1050.0 USD 7.0 pcs 
+6587016 berezka 3m 15000.0 USD 45000.0 USD 0.0 pcs 
+7049574 hp lj-1250er 360.0 USD 460.0 USD 64.0 pcs 

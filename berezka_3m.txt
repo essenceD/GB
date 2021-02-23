@@ -1,0 +1,7 @@
+bar 6587016
+type tv
+brand berezka
+model 3m
+p_price 15000.0 USD
+r_price 45000.0 USD
+specs ['None']

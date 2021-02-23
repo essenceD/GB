@@ -1,0 +1,7 @@
+bar 7534119
+type tv
+brand philips
+model kde-4000
+p_price 1700.0 USD
+r_price 2100.0 USD
+specs ['None']
